@@ -1,0 +1,10 @@
+preprocessing/__pycache__/audioprocess.cpython-38.pyc
+old_method/__pycache__/map_prepare.cpython-38.pyc
+old_method/__pycache__/audio_prepare.cpython-38.pyc
+__pycache__/map_prepare.cpython-38.pyc
+__pycache__/audio_prepare.cpython-38.pyc
+Agehachou.mp3
+preprocessing/*.wav
+preprocessing/audio_np/*
+preprocessing/__pycache__/mapprocess.cpython-38.pyc
+.ipynb_checkpoints/data_generator-checkpoint.ipynb
